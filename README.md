@@ -46,6 +46,11 @@
 - [官方文档](https://www.typescriptlang.org/)
 - [type-challenges](https://github.com/type-challenges/type-challenges)-TypeScript 类型体操姿势合集
 
+## Nest
+
+- [官方文档](https://docs.nestjs.com/)
+- [中文翻译文档](https://docs.nestjs.cn/)
+
 ## Echarts
 
 - [官方文档](https://echarts.apache.org/zh/index.html)
