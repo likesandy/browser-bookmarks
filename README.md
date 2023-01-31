@@ -68,6 +68,7 @@
 
 ## 个人收藏网站
 
+- [Wiki](https://zh.wikipedia.org/)-维基百科
 - [V2EX](https://v2ex.com/)-创意工作者们的社区
 - [freecodecamp](https://www.freecodecamp.org/news/)-国外知名学习编程社区
 - [Udemy](https://www.udemy.com/)-美国大型在线课堂
@@ -82,7 +83,7 @@
 - [jsont](https://www.jsont.run/)-JSON 格式化验证和编辑
 - [jwt](https://jwt.io/)-JWT.IO 允许您解码、验证和生成 JWT
 - [playcode](https://playcode.io/)-在线 JavaScript 编辑器(速度很快)
-- [js已发布的新特性](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
+- [js 已发布的新特性](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
 
 ## 未分类开源项目
 
