@@ -17,6 +17,12 @@
 - [后盾人](https://doc.houdunren.com/)
 - [山月行](https://shanyue.tech/)
 
+## 数据结构与算法
+
+- [visualgo](https://visualgo.net/zh)-一些高级算法的可视化/动画
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/about.html)-数据结构可视化
+- [The Algorithms](https://the-algorithms.com/zh_Hans)-开源算法库
+
 ## 小程序
 
 - [官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
@@ -39,7 +45,7 @@
 - [Ant Design](https://ant.design/index-cn)-国内 React 开发者使用最多的组件库
 - [mui](https://mui.com/)- 国外 React 开发者使用最多的组件库
 - [reactrouter](https://reactrouter.com/en/main) -[Redux](https://redux.js.org/)-使用率最多的 react store
-- [zustand](https://zustand-demo.pmnd.rs/)- **下一代**React 状态管理库(个人认为 😊😊)
+- [zustand](https://zustand-demo.pmnd.rs/)- 使用非常简洁方便的 react store（2022 React 生态圈明星级别项目）
 
 ## Typescript
 
@@ -90,6 +96,5 @@
 - [wangEditor](https://www.wangeditor.com/)-开源 Web 富文本编辑器
 - [tui.editor](https://github.com/nhn/tui.editor)-开源 Markdown 编辑器
 - [设计模式](https://refactoringguru.cn/design-patterns/typescript)
-- [The Algorithms](https://the-algorithms.com/zh_Hans)-开源算法库
 - [30secondsofcode](https://www.30secondsofcode.org/)-代码片段
 - [CS 自学指南](https://github.com/pkuflyingpig/cs-self-learning/)-计算机自学指南
