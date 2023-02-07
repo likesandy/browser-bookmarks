@@ -2,7 +2,13 @@
 
 主要原因是浏览器收藏夹一大堆,非常不舒服 🙄😠
 
-## 技术周刊
+## 每天一刷
+
+- [知乎](https://www.zhihu.com/)
+- [哔哩哔哩](https://t.bilibili.com/?tab=video)
+- [V2EX](https://v2ex.com/)-创意工作者们的社区
+
+## 每周一刷
 
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [JavaScript 技术周刊](https://javascriptweekly.com/)
@@ -75,7 +81,6 @@
 ## 个人收藏网站
 
 - [Wiki](https://zh.wikipedia.org/)-维基百科
-- [V2EX](https://v2ex.com/)-创意工作者们的社区
 - [freecodecamp](https://www.freecodecamp.org/news/)-国外知名学习编程社区
 - [Udemy](https://www.udemy.com/)-美国大型在线课堂
 - [Dev](https://dev.to/)-开发者组成的社区
@@ -88,7 +93,6 @@
 - [木及简历](https://www.mujicv.com/)-在线 Markdown 简历制作工具
 - [jsont](https://www.jsont.run/)-JSON 格式化验证和编辑
 - [jwt](https://jwt.io/)-JWT.IO 允许您解码、验证和生成 JWT
-- [playcode](https://playcode.io/)-在线 JavaScript 编辑器(速度很快)
 - [js 已发布的新特性](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
 
 ## 未分类开源项目
@@ -98,3 +102,9 @@
 - [设计模式](https://refactoringguru.cn/design-patterns/typescript)
 - [30secondsofcode](https://www.30secondsofcode.org/)-代码片段
 - [CS 自学指南](https://github.com/pkuflyingpig/cs-self-learning/)-计算机自学指南
+
+## 电影
+
+- [555 电影](https://www.555dyy1.com/)
+- [MINI4K 迷客电影](https://www.mini4k.com/)
+- [片片](https://zztt11.com/)
