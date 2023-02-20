@@ -2,12 +2,6 @@
 
 主要原因是浏览器收藏夹一大堆,非常不舒服 🙄😠
 
-## 每天一刷
-
-- [知乎](https://www.zhihu.com/)
-- [哔哩哔哩](https://t.bilibili.com/?tab=video)
-- [V2EX](https://v2ex.com/)-创意工作者们的社区
-
 ## 每周一刷
 
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
@@ -16,6 +10,7 @@
 - [React 技术周刊](https://react.statuscode.com/)
 - [Nodejs 技术周刊](https://nodeweekly.com/)
 - [奇舞周刊](https://weekly.75.team/)
+- [V2EX](https://v2ex.com/)-创意工作者们的社区
 
 ## 个人博客
 
@@ -102,9 +97,3 @@
 - [设计模式](https://refactoringguru.cn/design-patterns/typescript)
 - [30secondsofcode](https://www.30secondsofcode.org/)-代码片段
 - [CS 自学指南](https://github.com/pkuflyingpig/cs-self-learning/)-计算机自学指南
-
-## 电影
-
-- [555 电影](https://www.555dyy1.com/)
-- [MINI4K 迷客电影](https://www.mini4k.com/)
-- [片片](https://zztt11.com/)
