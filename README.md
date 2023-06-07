@@ -76,7 +76,7 @@
 
 ## 设计模式
 - [深入设计模式网站](https://refactoringguru.cn/)
-- [大话设计模式书籍]([https://refactoringguru.cn/](https://github.com/likesandy/books/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_%E7%A8%8B%E6%9D%B0.pdf))
+- [大话设计模式书籍](https://github.com/likesandy/books/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_%E7%A8%8B%E6%9D%B0.pdf)
 
 ## 个人收藏网站
 
