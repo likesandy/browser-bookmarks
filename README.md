@@ -1,7 +1,3 @@
-# why
-
-主要原因是浏览器收藏夹一大堆,非常不舒服 🙄😠
-
 ## 每周一刷
 
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
@@ -9,7 +5,6 @@
 - [CSS 技术周刊](https://css-weekly.com/archives/)
 - [React 技术周刊](https://react.statuscode.com/)
 - [Nodejs 技术周刊](https://nodeweekly.com/)
-- [奇舞周刊](https://weekly.75.team/)
 - [V2EX](https://v2ex.com/)-创意工作者们的社区
 
 ## 个人博客
@@ -44,11 +39,13 @@
 ## React
 
 - [React docs](https://react.dev/)-React 新文档
+- [中文文档](https://zh-hans.react.dev/)
 - [Ant Design](https://ant.design/index-cn)-国内 React 开发者使用最多的组件库
 - [mui](https://mui.com/)- 国外 React 开发者使用最多的组件库
 - [reactrouter](https://reactrouter.com/en/main)
 - [Redux](https://redux.js.org/)-使用率最多的 react store
 - [zustand](https://zustand-demo.pmnd.rs/)- 使用非常简洁方便的 react store（2022 React 生态圈明星级别项目）
+- [Mobx](https://zh.mobx.js.org/README.html)-具有简单易用、响应式、高效性能、透明性和可组合性等特点
 
 ## Typescript
 
@@ -59,7 +56,7 @@
 
 - [官方文档](https://docs.nestjs.com/)
 - [中文翻译文档](https://docs.nestjs.cn/)
-
+  
 ## Echarts
 
 - [官方文档](https://echarts.apache.org/zh/index.html)
@@ -67,18 +64,19 @@
 
 ## Rxjs
 
-- [RxJS](https://rxjs.dev/)-
-  官方文档
-- [RxJS Marbles](https://rxmarbles.com/)-
-  Rx Observables 交互图
+- [RxJS](https://rxjs.dev/)-官方文档
+- [RxJS Marbles](https://rxmarbles.com/)-Rx Observables 交互图
 - [学习 RxJS 教程](https://reactive.how/)
-- [Rx Visualizer](https://rxviz.com/)-
-  RxJS 的动画游乐场
+- [Rx Visualizer](https://rxviz.com/)-RxJS 的动画游乐场
 
 ## tailwindcss
 
 - [组件模版 ❤❤](https://tailwindcomponents.com/)
 - [部分组件模版（较少）](https://tailwindui.com/components/preview)
+
+## 设计模式
+- [深入设计模式网站](https://refactoringguru.cn/)
+- [大话设计模式书籍]([https://refactoringguru.cn/](https://github.com/likesandy/books/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_%E7%A8%8B%E6%9D%B0.pdf))
 
 ## 个人收藏网站
 
@@ -101,6 +99,7 @@
 - [outlook mail](https://outlook.office.com/mail/)
 - [MINI4K 迷客电影](https://www.mini4k.com/awards)-获奖电影
 
+
 ## 未分类开源项目
 
 - [wangEditor](https://www.wangeditor.com/)-开源 Web 富文本编辑器
@@ -115,10 +114,9 @@
 ## 课程资源
 
 - [bubucuo](https://appuwwsm6cl6690.pc.xiaoe-tech.com/)-React 知名传播者
-- [杨村长和全栈然叔](https://appwhrkrsz84443.pc.xiaoe-tech.com/)-Vue3 Contributor
-- [大圣](https://shengxinjing.cn/)-Vue3 Contributor，Element3 作者
 - [掘金小册](https://juejin.cn/course)-一个小篇幅、高浓度、成体系、有收益的技术学习平台
 - [自顶向下学 React 源码](https://react.iamkasong.com/#%E5%AF%BC%E5%AD%A6%E8%A7%86%E9%A2%91)-卡颂的 React 源码课程
+- [慕课网](https://www.imooc.com/)
 
 ## 盗版网站
 
@@ -126,6 +124,5 @@
 - [乐学编程课堂](https://lexuecode.com/)
 - [蜜 糖 商 店](https://metshop.vip/#/)
 - [555 电影](https://www.555dyy1.com/)
-- [666 资源站](https://666java.com/)
 - [优百课栈](https://www.ubkz.com/)
 - [IT 知识学院](https://www.itpromise.cloud/)
